@@ -1,4 +1,5 @@
 # Git Document
+> This is my summary document about Git
 ## Table of contents
 [I. Git Basic](#gitbasic)
 
@@ -77,8 +78,8 @@ git merge
 ```
 <ul>
     <li>Fast Forward Merge</li>
-    <li>Three-Way Merge></li>
-    <li>Conflict></li>
+    <li>Three-Way Merge</li>
+    <li>Conflict</li>
 </ul>
 
 Read at [here](https://yunwuxin1.gitbooks.io/git/content/vi/)
