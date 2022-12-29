@@ -3,14 +3,19 @@
 [I. Git Basic](#gitbasic)
 
 [II. Git Branch](#gitbranch)
+
 [III. Git Stash](#gitstash)
+
 [IV. GitHub Setting](#githubsetting)
 - [1. Create personnal access token](#token)
 - [2. Create a new repository](#repo)
+
 [V. Git Collaborating](#colab)
 - [1. On the same branches](#same)
 - [2. On the different branches](#diff)
+
 [VI. Git Flow and GitHub Actions](#workflow)
+
 [VII. References](#ref)
 *********************************
 <a name = "gitbasic"></a>
